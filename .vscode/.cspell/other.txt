@@ -8,6 +8,7 @@ datetime
 evenodd
 Fira
 fullname
+infile
 jiti
 multistep
 noborder
@@ -15,7 +16,9 @@ Noto
 Overriden
 preinstall
 stroustrup
+toggleable
 typecheck
 unref
 wght
 zod's
+shellcheck

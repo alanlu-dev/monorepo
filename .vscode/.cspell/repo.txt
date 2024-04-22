@@ -1,6 +1,7 @@
 # Custom Dictionary Words
 commitlint
 commitlintrc
+conventionalcommits
 deepmerge
 fontaine
 formkit
@@ -12,6 +13,7 @@ manypkg
 maska
 mastercss
 mcss
+notionhq
 nuxt
 nuxtjs
 persistedstate
@@ -27,4 +29,5 @@ tsup
 Turborepo
 unplugin
 unstorage
+versionrc
 vueuse
