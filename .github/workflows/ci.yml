@@ -50,6 +50,9 @@ jobs:
       - name: Lint
         run: pnpm run lint
 
+      - name: Format
+        run: pnpm run format
+
       - name: TypeCheck
         run: pnpm run typecheck
 
@@ -68,7 +71,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node_version: [20]
+        node_version: [20, 22]
         # node_version: [18, 20]
         # include:
         #   # Active LTS + other OS
